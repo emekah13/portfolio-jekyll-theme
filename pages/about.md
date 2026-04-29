@@ -12,5 +12,6 @@ permalink: /about
   <h2>Data Analyst, Imperial Bussiness School</h2>
 <h1>Other things of interest</h1>
   <p>My biggest goal is working as a composite or structures engineer in a top motorsport team</p>
+  <p>Currently working on Formula 1 strategy and data analytics projects using Python and Tableau</p>
   <p>In my free time I enjoy cooking or using my camera to take some photos</p>
   
